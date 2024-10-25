@@ -24,7 +24,7 @@ The bot operates on the **Solana blockchain** and takes advantage of profit oppo
 
 The bot tries to predict **Solana pump** movements in advance and is prepared for such events. **Machine learning** algorithms analyze past data to predict potential **pump** events.
 
-![](img/ui2.png)
+![](img/ui3.png)
 
 ## 💡 Setup with Packaged App - One-Click Start Option
 
@@ -56,7 +56,7 @@ The bot works in harmony with **Pump.fun** and **Raydium**, two popular Solana-b
 
 **Pump.fun** is a platform designed for traders who want to capture sudden price increases and liquidity spikes. **Solana Pump Bot** continuously monitors price movements on this platform and automatically handles buy and sell trades for you, eliminating the need for manual intervention.
 
-![](img/ui3.png)
+![](img/ui2.png)
 ## 🔒 Security
 
 **Solana-Pump-Bot** ensures your security by storing your private keys in an encrypted format and only using them when necessary. With advanced security measures, your funds are always protected.
