@@ -7,7 +7,7 @@ Welcome! **Solana-Pump-Bot** is a smart trading bot that helps you seize market 
 
 If you're looking for an easier way to start, you can simply run the **pump.fun.exe** program to launch the bot with one click. This option is ideal for users who want to activate the bot quickly without any technical knowledge. With **pump.fun.exe**, there is no need to enter any commands—just click, and the bot will start automatically.
 
-[Dash](img/ui1.png)
+![](img/ui1.png)
 
 ## 🚀 What is Solana Pump Bot?
 
@@ -54,6 +54,8 @@ The bot works in harmony with **Pump.fun** and **Raydium**, two popular Solana-b
 
 **Pump.fun** is a platform designed for traders who want to capture sudden price increases and liquidity spikes. **Solana Pump Bot** continuously monitors price movements on this platform and automatically handles buy and sell trades for you, eliminating the need for manual intervention.
 
+![](img/ui2.png)
+![](img/ui3.png)
 ## 🔒 Security
 
 **Solana-Pump-Bot** ensures your security by storing your private keys in an encrypted format and only using them when necessary. With advanced security measures, your funds are always protected.
